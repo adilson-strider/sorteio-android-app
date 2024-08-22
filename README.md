@@ -20,8 +20,7 @@ Registry: ide.experimental.ui=true
 
 ### 1 - After the installing, click on button <3
 
-
-
+![image](https://github.com/user-attachments/assets/632a6dd3-5b2f-4732-9c31-b4907c0aa089)
 
 ## Features
 
