@@ -1,5 +1,7 @@
 # Draw number app
 
+## Description 
+
 Pequeno app android que sorteia um número entre 0 e 10.
 
 ## Technology 
@@ -26,7 +28,6 @@ Registry: ide.experimental.ui=true
 
 The main features of the application are:
  - Click on button and generate a random number between 0 and 10.
- - Learn a lot of information <3
 
 ## Links
   - App Link: https://drive.google.com/drive/folders/1ZD7Oiqk4uhAV6fe5WrsMdbnzTe0qUP8_?usp=sharing
