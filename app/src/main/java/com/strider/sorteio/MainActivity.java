@@ -22,10 +22,13 @@ public class MainActivity extends AppCompatActivity {
 
     public void drawNumber(View view){
 
+        // Set text by id
         TextView text = findViewById(R.id.textResult);
 
+        // Create a random object
         Random rand = new Random();
 
-        text.setText(String.valueOf(rand.nextInt(11)));
+        // Convert in string and set text
+        text.setText(String.valueOf(rand.nextInt(10) + 1));
     }
 }
