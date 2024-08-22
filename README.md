@@ -2,7 +2,7 @@
 
 ## Description 
 
-Pequeno app android que sorteia um número entre 0 e 10.
+Tiny app android which draw a random number between 0 and 10.
 
 ## Technology 
 
